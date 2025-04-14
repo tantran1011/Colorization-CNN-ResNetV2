@@ -46,7 +46,7 @@ This project tackles the problem of **Colorization** using deep learning. We uti
 ## 🧰 How to Run
 
 ```bash
-os mkdir colorization && cd colorization
+mkdir colorization && cd colorization
 git clone https://github.com/tantran1011/Colorization-CNN-ResNetV2.git
 
 # Open the notebook
