@@ -6,9 +6,9 @@
 This project tackles the problem of **Colorization** using deep learning. We utilize a **Combine** model (CNN and Inception-ResNetV2) to colorize black and white **Fruit Photos**
 
 > 📍 Approach & model structure: [Research paper](https://arxiv.org/pdf/1712.03400v1.pdf)
+> 📍 Reference: [View here]( https://github.com/saeed-anwar/ColorSurvey#dataset)
 > 📍 Kaggle notebook: [View here](https://www.kaggle.com/code/tantranduc/colorization-cnn-resnetv2)  
 > 📍 Dataset used: [Link to dataset](https://www.kaggle.com/code/tantranduc/colorization-cnn-resnetv2)
-> 📍 Reference: [View here]( https://github.com/saeed-anwar/ColorSurvey#dataset)
 
 ---
 
