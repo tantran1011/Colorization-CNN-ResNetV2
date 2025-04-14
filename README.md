@@ -39,9 +39,7 @@ This project tackles the problem of **Colorization** using deep learning. We uti
 
 | Metric        | Value     |
 |---------------|-----------|
-| Accuracy      | 97%       |
-| Kaggle Votes  | 26 👍      |
-| Medal         | 🥉 Bronze |
+| Accuracy      | 55%       |
 
 ---
 
